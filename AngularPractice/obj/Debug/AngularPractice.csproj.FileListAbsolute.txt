@@ -1,0 +1,5 @@
+C:\Satinder\Study\Practice\AngularPractice\bin\AngularPractice.dll
+C:\Satinder\Study\Practice\AngularPractice\bin\AngularPractice.pdb
+C:\Satinder\Study\Practice\AngularPractice\obj\Debug\AngularPractice.csprojResolveAssemblyReference.cache
+C:\Satinder\Study\Practice\AngularPractice\obj\Debug\AngularPractice.dll
+C:\Satinder\Study\Practice\AngularPractice\obj\Debug\AngularPractice.pdb

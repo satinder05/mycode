@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="mainModule">
+<head>
+    <title></title>
+    <script type="text/javascript" src="../Scripts/angular.min.js"></script>
+    <script type="text/javascript" src="Scripts/mainModule.js"></script>
+</head>
+<body ng-controller="mainController">
+    <div>
+        <my-customer info-customer="John"></my-customer>
+        <my-customer info-customer="Jack"></my-customer>
+        <!--<my-test></my-test>-->
+    </div>
+    <div>
+        <my-dialog>Check this out, {{name}}</my-dialog>
+    </div>
+    <div>
+        <my-button click-function="Clicked()"></my-button>
+        <input type="button", value="Click Me" ng-click="Clicked()" />
+    </div>
+    <div>
+        <input ng-model="Text" type="text" />
+        <span>
+            {{Text}}
+        </span>
+    </div>
+</body>
+</html>
