@@ -1,0 +1,8 @@
+C:\Satinder\Study\Practice\EF\bin\Debug\EF.exe.config
+C:\Satinder\Study\Practice\EF\bin\Debug\EF.exe
+C:\Satinder\Study\Practice\EF\bin\Debug\EF.pdb
+C:\Satinder\Study\Practice\EF\bin\Debug\EntityFramework.dll
+C:\Satinder\Study\Practice\EF\bin\Debug\EntityFramework.xml
+C:\Satinder\Study\Practice\EF\obj\x86\Debug\EF.csprojResolveAssemblyReference.cache
+C:\Satinder\Study\Practice\EF\obj\x86\Debug\EF.exe
+C:\Satinder\Study\Practice\EF\obj\x86\Debug\EF.pdb
